@@ -13,3 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     observer.observe(video);
   });
 });
+
+document.addEventListener('submit', () => {
+  console.log(asda);
+});
